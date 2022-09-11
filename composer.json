@@ -30,10 +30,10 @@
         "psr-4": { "Omnipay\\Buckaroo\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~3.0"
+        "omnipay/common": "~3"
     },
     "require-dev": {
-        "omnipay/tests": "~3.0",
+        "omnipay/tests": "~3",
         "squizlabs/php_codesniffer": "^2.8.1"
     },
     "extra": {
